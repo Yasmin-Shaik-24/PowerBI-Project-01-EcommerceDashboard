@@ -98,16 +98,4 @@ To deliver an **interactive analytical dashboard** that:
 
 ---
 
-### ✨ **Repository Description (for GitHub)**
-
-> **Interactive Power BI Dashboard for Ecommerce Sales and Profit Analysis.**
-
----
-
-### 🏷️ **Suggested GitHub Topics / Tags**
-
-`powerbi` • `data-analytics` • `business-intelligence` • `ecommerce` • `sales-dashboard` • `data-visualization` • `superstore-dataset`
-
----
-
 ⭐ *If you like this dashboard, don’t forget to star ⭐ the repository and share your feedback!*  
