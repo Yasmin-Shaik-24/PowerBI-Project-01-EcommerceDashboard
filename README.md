@@ -94,4 +94,4 @@ To deliver an **interactive analytical dashboard** that:
  🖼️ **Screenshots / Demo**
 
 **Dashboard Preview:**  
-
+https://github.com/Yasmin-Shaik-24/PowerBI-Project-01-EcommerceDashboard/blob/main/Snapshot%20of%20Ecommerse%20Dashboard.png
